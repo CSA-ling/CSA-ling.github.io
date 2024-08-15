@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Huang's blog
-email: devhuang000@outlook.com
-author: Dev-Huang1
+title: yanta
+email: 2424113648@qq.com
+author: 言她
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -162,11 +162,11 @@ yat:
 # Page default value
 defaults:
    home:
-     heading: "Hello!👋"
-     subheading: "Welcome to my blog!🎉"
+     heading: "幽期不负言"
+     subheading: "我吹着你吹过的晚风"
      banner: "Your image url"
 
-# Banner default settings
+# Banner default settings 
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
 # banner:
