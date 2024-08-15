@@ -43,9 +43,9 @@ author: 言她
 copyright: "YanTa (c) {currentYear}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  #Write an awesome description for your new site here. You can edit this
-  #line in _config.yml. It will appear in your document head meta (for
-  #Google search results) and in your feed.xml site description.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
 baseurl: "" # the subpath of your site, e.g. /blog 
 url: "" # the base hostname & protocol for your site, e.g. https://example.com 
@@ -86,9 +86,9 @@ yat:
 #     img: https://cdn.countryflags.com/thumbs/france/flag-400.png
 #     text: French
 #
-- lang: zh-CN
-  img: https://cdn.countryflags.com/thumbs/china/flag-400.png
-  text: Chinese(Simple)
+#- lang: zh-CN
+  #img: https://cdn.countryflags.com/thumbs/china/flag-400.png
+  #text: Chinese(Simple)
 #
 #   - lang: ja
 #     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
