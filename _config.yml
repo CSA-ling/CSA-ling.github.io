@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 言她
+title: 哇哦
 email: 2424113648@qq.com
 author: 言她
 
@@ -47,9 +47,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
-favicon: "https://cdn.xyehr.cn/images/Image_1712299099839.jpg" # the favicon for your site
+baseurl: "" # the subpath of your site, e.g. /blog 
+url: "" # the base hostname & protocol for your site, e.g. https://example.com 
+favicon: "https://cdn.xyehr.cn/images/Image_1712299099839.jpg" # the favicon for your site 
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this 
@@ -86,9 +86,9 @@ yat:
 #     img: https://cdn.countryflags.com/thumbs/france/flag-400.png
 #     text: French
 #
-#   - lang: zh-CN
-#     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
-#     text: Chinese(Simple)
+- lang: zh-CN
+  img: https://cdn.countryflags.com/thumbs/china/flag-400.png
+  text: Chinese(Simple)
 #
 #   - lang: ja
 #     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
