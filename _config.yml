@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: yanta
+title: 言她
 email: 2424113648@qq.com
 author: 言她
 
@@ -163,7 +163,7 @@ yat:
 defaults:
    home:
      heading: "幽期不负言"
-     subheading: "我吹着你吹过的晚风"
+     subheading: "我吹着你吹过的晚风……"
      banner: "Your image url"
 
 # Banner default settings 
